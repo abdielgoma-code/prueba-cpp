@@ -1,0 +1,1 @@
+{"tasks":[{"args":["-g","-Wall","-std=c++17","${file}","-o","${fileDirname}/${fileBasenameNoExtension}"],"command":"/usr/bin/g++","group":{"isDefault":true,"kind":"build"},"label":"compilar-cpp","problemMatcher":["$gcc"],"type":"shell"}],"version":"2.0.0"}

@@ -1,0 +1,1 @@
+{"configurations":[{"MIMode":"gdb","args":[],"cwd":"${fileDirname}","environment":[],"externalConsole":false,"miDebuggerPath":"/usr/bin/gdb","name":"Depurar C++ (gdb)","preLaunchTask":"compilar-cpp","program":"${fileDirname}/${fileBasenameNoExtension}","request":"launch","stopAtEntry":false,"type":"cppdbg"}],"version":"0.2.0"}

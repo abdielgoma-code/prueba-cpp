@@ -1,0 +1,5 @@
+# Binarios y objetos compilados
+*.o
+*.out
+/ejercicio1
+/hola
